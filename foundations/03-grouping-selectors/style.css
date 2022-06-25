@@ -1,0 +1,14 @@
+.click-me,
+.click-me-2 {
+    font-size: 46px;
+    background:fixed;
+    font-weight: bold;
+}
+.click-me {
+    color:white;
+    background-color: black;
+}
+.click-me-2 {
+    color:black;
+    background-color: yellow;
+}
